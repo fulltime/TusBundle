@@ -7,7 +7,7 @@
         "ankitpokhrel/tus-php": "^2.4",
         "nesbot/carbon": "^3.8",
         "symfony/config": "~7.1.1",
-        "symfony/console": "~7.1.1",
+        "symfony/console": "~7.2.1",
         "symfony/dependency-injection": "~7.1.1",
         "symfony/event-dispatcher": "~7.1.1",
         "symfony/http-kernel": "~7.1.1",
